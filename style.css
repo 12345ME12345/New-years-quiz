@@ -83,6 +83,21 @@ body{
     border-radius: 25px;
     text-align: center;
 }
+.buttonthingy5{
+    margin-top: 5%;
+    padding: 75px;
+    border-radius: 25px;
+    text-align: center;
+}
+.buttonthingy5 a{
+    font-size: 50px;
+    text-decoration: none;
+    color: darkblue;
+    transition: 500ms;
+}
+.buttonthingy5 a:hover{
+    color: darkkhaki;
+}
 button{
     border-radius: 15px;
     background-color: darkgray;
