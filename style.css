@@ -93,10 +93,6 @@ body{
     font-size: 50px;
     text-decoration: none;
     color: darkblue;
-    transition: 500ms;
-}
-.buttonthingy5 a:hover{
-    color: darkkhaki;
 }
 button{
     border-radius: 15px;
