@@ -1,0 +1,98 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito:regular);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito';
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: darkblue;
+    color: white;
+}
+.buttonthingy a{
+    font-size: 50px;
+    text-decoration: none;
+    color: white;
+    transition: 500ms;
+}
+.buttonthingy a:hover{
+    color: darkkhaki;
+}
+.buttonthingy{
+    margin-top: 20%;
+    padding: 125px;
+    border-radius: 25px;
+    text-align: center;
+}
+.title{
+    border-radius: 25px;
+    text-align: center;
+}
+.title img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.buttonthingy2 a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    transition: 500ms;
+}
+.buttonthingy2 a:hover{
+    color: darkkhaki;
+}
+.buttonthingy2{
+    margin-top: 20%;
+    padding: 50px;
+    border-radius: 25px;
+}
+.button-control{
+    gap: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.buttonthingy3 a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    transition: 500ms;
+}
+.buttonthingy3 a:hover{
+    color: darkkhaki;
+}
+.buttonthingy3{
+    padding: 50px;
+    border-radius: 25px;
+}
+.buttonthingy4 a{
+    font-size: 50px;
+    text-decoration: none;
+    color: white;
+    transition: 500ms;
+}
+.buttonthingy4 a:hover{
+    color: darkkhaki;
+}
+.buttonthingy4{
+    margin-top: 5%;
+    padding: 75px;
+    border-radius: 25px;
+    text-align: center;
+}
+button{
+    border-radius: 15px;
+    background-color: darkgray;
+    color: white;
+    border: 2px solid white;
+    width: 40px;
+}
+.resulotion{
+    gap: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
