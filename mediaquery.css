@@ -23,7 +23,7 @@
     .buttonthingy5 a{
         font-size: 70px;
         text-decoration: none;
-        color: darkblue;
+        color: darkred;
         transition: 500ms;
     }
     label{
@@ -64,7 +64,7 @@
     .buttonthingy5 a{
         font-size: 90px;
         text-decoration: none;
-        color: darkblue;
+        color: darkcyan;
         transition: 500ms;
     }
     label{
